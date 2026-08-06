@@ -1,7 +1,7 @@
 Learn github again after years
 This is dedicated for my data science study
-contain source to learn
 learn python
 learn SQL
 learn Statistic
 learn Math
+Learn code
